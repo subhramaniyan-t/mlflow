@@ -1,0 +1,15 @@
+artifact_uri: file:///home/subhramaniyan/mle-training/src/subhramaniyan-t-package/mlruns/322676014482096413/c4b598cf194f4d39a0b54333643adf2a/artifacts
+end_time: 1689096944249
+entry_point_name: ''
+experiment_id: '322676014482096413'
+lifecycle_stage: active
+run_id: c4b598cf194f4d39a0b54333643adf2a
+run_name: Model Scoring
+run_uuid: c4b598cf194f4d39a0b54333643adf2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689096942829
+status: 3
+tags: []
+user_id: subhramaniyan

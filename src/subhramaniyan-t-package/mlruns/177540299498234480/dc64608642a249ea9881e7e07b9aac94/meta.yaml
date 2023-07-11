@@ -1,0 +1,15 @@
+artifact_uri: file:///home/subhramaniyan/mle-training/src/subhramaniyan-t-package/mlruns/177540299498234480/dc64608642a249ea9881e7e07b9aac94/artifacts
+end_time: 1689096935893
+entry_point_name: ''
+experiment_id: '177540299498234480'
+lifecycle_stage: active
+run_id: dc64608642a249ea9881e7e07b9aac94
+run_name: Data Preparation
+run_uuid: dc64608642a249ea9881e7e07b9aac94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689096935860
+status: 3
+tags: []
+user_id: subhramaniyan
