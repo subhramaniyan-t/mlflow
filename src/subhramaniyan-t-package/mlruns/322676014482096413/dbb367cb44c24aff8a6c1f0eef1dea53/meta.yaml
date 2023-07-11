@@ -1,0 +1,15 @@
+artifact_uri: file:///home/subhramaniyan/mle-training/src/subhramaniyan-t-package/mlruns/322676014482096413/dbb367cb44c24aff8a6c1f0eef1dea53/artifacts
+end_time: 1689096942827
+entry_point_name: ''
+experiment_id: '322676014482096413'
+lifecycle_stage: active
+run_id: dbb367cb44c24aff8a6c1f0eef1dea53
+run_name: Model Training
+run_uuid: dbb367cb44c24aff8a6c1f0eef1dea53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689096942650
+status: 3
+tags: []
+user_id: subhramaniyan

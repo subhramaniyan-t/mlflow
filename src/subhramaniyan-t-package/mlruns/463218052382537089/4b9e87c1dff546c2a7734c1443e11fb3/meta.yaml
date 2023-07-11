@@ -1,0 +1,16 @@
+artifact_uri: file:///home/subhramaniyan/mle-training/src/subhramaniyan-t-package/mlruns/463218052382537089/4b9e87c1dff546c2a7734c1443e11fb3/artifacts
+deleted_time: null
+end_time: null
+entry_point_name: ''
+experiment_id: '463218052382537089'
+lifecycle_stage: active
+run_id: 4b9e87c1dff546c2a7734c1443e11fb3
+run_name: Housing MV Prediction
+run_uuid: 4b9e87c1dff546c2a7734c1443e11fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689095592843
+status: 1
+tags: []
+user_id: subhramaniyan
